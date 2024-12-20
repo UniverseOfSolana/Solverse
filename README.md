@@ -1,4 +1,4 @@
-![banner_-_2024-11-24T213102 724]()
+![banner](https://github.com/UniverseOfSolana/Solverse/blob/main/banner.jpg)
 
 Solverse: Innovating Planetary Ownership Through $SOLVERSE Token and NFT Integration
 
