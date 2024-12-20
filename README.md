@@ -36,7 +36,7 @@ The platform encourages exploration and interaction by allowing users to view, t
 
 
 
-![GM_-_2024-11-24T212348 676]()
+![GM_-_2024-11-24T212348 676](https://github.com/UniverseOfSolana/Solverse/blob/main/image.png)
 
 3) Technological Framework
 
